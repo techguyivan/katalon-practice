@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Getting better" time="13.414" tests="2" failures="0" errors="0">
+   <testsuite name="Getting better" tests="2" failures="0" errors="0" time="13.414" skipped="0" timestamp="24-01-2024T16:28:37" hostname="Ivan - IvanHPLaptop" id="Test Suites/Getting better">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Ivan\\Katalon Studio\\My First Project\\Reports\\20240124_162832\\Getting better\\20240124_162832"/>
+         <property name="logFiles" value="C:\\Users\\Ivan\\Katalon Studio\\My First Project\\Reports\\20240124_162832\\Getting better\\20240124_162832\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Ivan - IvanHPLaptop"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.20"/>
+         <property name="sessionId" value="b7248b57546af5faa8436f2dbfe5fd2f"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Practice" time="7.086" classname="Test Cases/Practice" status="PASSED">
+         <system-out><![CDATA[24-01-2024T16:28:38 - [TEST_CASE][PASSED] - Test Cases/Practice: Test Cases/Practice
+
+24-01-2024T16:28:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+24-01-2024T16:28:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+24-01-2024T16:28:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+24-01-2024T16:28:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+24-01-2024T16:28:41 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+24-01-2024T16:28:42 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+24-01-2024T16:28:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service")): Object: 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is clicked on
+
+24-01-2024T16:28:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is clicked on
+
+24-01-2024T16:28:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+24-01-2024T16:28:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+24-01-2024T16:28:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_fa fa-facebook fa-fw fa-3x")): Object: 'Object Repository/Page_CURA Healthcare Service/i_fa fa-facebook fa-fw fa-3x' is clicked on
+
+24-01-2024T16:28:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_fa fa-facebook fa-fw fa-3x' is clicked on
+
+24-01-2024T16:28:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_fa fa-twitter fa-fw fa-3x")): Object: 'Object Repository/Page_CURA Healthcare Service/i_fa fa-twitter fa-fw fa-3x' is clicked on
+
+24-01-2024T16:28:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_fa fa-twitter fa-fw fa-3x' is clicked on
+
+24-01-2024T16:28:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_fa fa-dribbble fa-fw fa-3x")): Object: 'Object Repository/Page_CURA Healthcare Service/i_fa fa-dribbble fa-fw fa-3x' is clicked on
+
+24-01-2024T16:28:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_fa fa-dribbble fa-fw fa-3x' is clicked on
+
+24-01-2024T16:28:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+24-01-2024T16:28:45 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Practice" time="6.023" classname="Test Cases/Practice" status="PASSED">
+         <system-out><![CDATA[24-01-2024T16:28:45 - [TEST_CASE][PASSED] - Test Cases/Practice: Test Cases/Practice
+
+24-01-2024T16:28:45 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+24-01-2024T16:28:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+24-01-2024T16:28:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+24-01-2024T16:28:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+24-01-2024T16:28:46 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+24-01-2024T16:28:48 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+24-01-2024T16:28:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service")): Object: 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is clicked on
+
+24-01-2024T16:28:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/h1_CURA Healthcare Service' is clicked on
+
+24-01-2024T16:28:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Make Appointment")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+24-01-2024T16:28:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+24-01-2024T16:28:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_fa fa-facebook fa-fw fa-3x")): Object: 'Object Repository/Page_CURA Healthcare Service/i_fa fa-facebook fa-fw fa-3x' is clicked on
+
+24-01-2024T16:28:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_fa fa-facebook fa-fw fa-3x' is clicked on
+
+24-01-2024T16:28:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_fa fa-twitter fa-fw fa-3x")): Object: 'Object Repository/Page_CURA Healthcare Service/i_fa fa-twitter fa-fw fa-3x' is clicked on
+
+24-01-2024T16:28:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_fa fa-twitter fa-fw fa-3x' is clicked on
+
+24-01-2024T16:28:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/i_fa fa-dribbble fa-fw fa-3x")): Object: 'Object Repository/Page_CURA Healthcare Service/i_fa fa-dribbble fa-fw fa-3x' is clicked on
+
+24-01-2024T16:28:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/i_fa fa-dribbble fa-fw fa-3x' is clicked on
+
+24-01-2024T16:28:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+24-01-2024T16:28:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[24-01-2024T16:28:37 - [TEST_SUITE][PASSED] - Getting better: Test Cases/Practice]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

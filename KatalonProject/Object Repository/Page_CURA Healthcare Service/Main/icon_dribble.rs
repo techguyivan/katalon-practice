@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_dribble</name>
+   <tag></tag>
+   <elementGuidId>1d9c518d-f08f-4127-914b-bf90b36c3fd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-dribbble.fa-fw.fa-3x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[3]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>61d93c9e-7ae6-49b5-b5b6-d12752394ca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-dribbble fa-fw fa-3x</value>
+      <webElementGuid>613f1464-bcdf-48ba-b34f-315911f0efc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/footer[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 col-lg-offset-1 text-center&quot;]/ul[@class=&quot;list-inline&quot;]/li[3]/a[1]/i[@class=&quot;fa fa-dribbble fa-fw fa-3x&quot;]</value>
+      <webElementGuid>b571fc08-0532-4a93-8895-61138ae72a54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/i</value>
+      <webElementGuid>3fadaf1a-20ef-47e8-93d1-ebf5f9d02f88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
